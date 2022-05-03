@@ -1,0 +1,6 @@
+juice,2kl,25/07/2020
+pepsi,2kl,20/06/2019
+soap,50gm,23/06/2020
+detergent,5kg,20/2/2020
+oil,5kl,20/2/2019
+almonds,5kg,30/04/2022facewash,500gm,20/6/2015
